@@ -41,10 +41,4 @@ This is integrating the Z83 digital form into Microsoft Dynamics 365 Finance and
 This integration allows for a Recruiter to receive a job application for application processing (i.e. to validate and review it).
 This integration supports the interview process, candidate selection and the conversion of a candidate into a new hire (i.e. employee onboarding)
 
- 
-
-
-#### **HELLO!**
-
-I am sure you are getting the feel of how this soluton came about!
 
