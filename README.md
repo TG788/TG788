@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img alt="ALM" width="1360px" height="100pc" src="Images/Doc_GitHub.png" />]
-
 # Z83-Portal-Solution
 
 This repository holds the entire project file for the Z83 Portal Solution, the documentations and the GitHub actions for committing changes and deployment.
