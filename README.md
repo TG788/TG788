@@ -21,69 +21,33 @@ Here are some ideas to get you started:
 
 This repository holds the entire project file for the Z83 Portal Solution, the documentations and the GitHub actions for committing changes and deployment.
 
-## Solution Overview
-This Solution is developed to enable public users to make online job applications, as opposed to manually filling out a Z83 form.
-[Click Here!](https://publicsectorsitesample.powerappsportals.com) to access the application.
+## PROJECT OVERVIEW AND OBJECTIVES
 
-## Solution Justification
-The solution eliminate the use of manual approach to request for days off from on-site work, also, the solution tracks the request based on specific days set for the such request and displays a warning error if days are exceeded on the User Interface of the end-user Canvas Apps.
+Overview
+The Z83 Online Job Application solution is a Microsoft Power Platform portal solution designed for the South African government and its public sectors. This automated solution is developed based on Z83 requirements and has been setup to enable public users to make online job applications, as opposed to manually filling out a government regulated Z83 form to apply for an advertised job within the public sector. 
 
-## Solution Taxonomy
-Below are the listed order through which this solution was developed, after which each element of the deployment will be documented accordingly.
+The Z83 Job Portal is built to better manage published job vacancies and to support online applications according to the Z83 format.
 
-1. **Business requirement document evaluation.**
+This solution eliminates the lengthy manual process of completing a physical Z83 application form and allows for the digitization of the Z83 form. Through the Z83 portal, which is an online website, the process is automated – making it quick and easy for candidates to apply for a job online. Click Here! to access the portal. 
 
-    - Problem review.
-    - Use case discovery.
-    - Design conceptualization.
-    - FitGap Analysis.
-    - BluePrinting.
+## Objectives
+The goal is to eliminate the manual process of a candidate (i.e. public user) having to complete a Z83 form to apply for a job, by visiting the government office in person or using the government’s intranet site to download and fill out the form. 
 
-2. **Solution Design**
+The introduction of an automated system simplifies the job application process from the eRecruitment phase: 
 
-    - Data Modelling (_consisting of the E-R diagram splitted into your logical, object and physical diagrams_)
-    - Security Modelling
-    - ALM
-    - Integrations Model (_if any_) 
-    - 
+Which is digitizing the Z83 application form
+Includes the sending out of email notification messages to a candidate’s valid email addresses
+oIncludes auto-generating and storing the completed Z83 application form on a SharePoint library, for storage and easy accessibility.  
 
-3. **Project Management and Project Governance.**
+To the Integration Phase:
+This is integrating the Z83 digital form into Microsoft Dynamics 365 Finance and Operations (the Human Resources module). 
+This integration allows for a Recruiter to receive a job application for application processing (i.e. to validate and review it).
+This integration supports the interview process, candidate selection and the conversion of a candidate into a new hire (i.e. employee onboarding)
 
-    - Project Methodology (Agile or Waterfall).
-    - Project Decision Model
-    
  
- 
- # Design Approach
- The project design model followed the UI - UX - Functionality model in the set order below.
- 
-   - User Interface design using Figma
-   - The user interface was then transformed experiencially using Canvas Apps design object features
-   - The application functionalities were developed using Power Fx
-  
- ### Design View
- ---
- 
- _see the design outcome below_
- 
-           Home Screen           |          Request Screen         
- 
-   ![](Images/home_screen.png)         ![](Images/request_screen.png)  
- 
- 
-### Function View
----
-
-![](Images/function_view.png) 
 
 
 #### **HELLO!**
 
 I am sure you are getting the feel of how this soluton came about!
-
-**_Now let's go check the ALM model, click the ICON below_**
-
-
-[<img alt="ALM" width="60px" height="60pc" src="Images/alm_icon.png" />](https://github.com/officialAY/requestAppSolution/blob/main/ALM.md)
-
 
