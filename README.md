@@ -21,7 +21,6 @@ This repository holds the entire project file for the Z83 Portal Solution, the d
 
 ## PROJECT OVERVIEW AND OBJECTIVES
 
-Overview
 The Z83 Online Job Application solution is a Microsoft Power Platform portal solution designed for the South African government and its public sectors. This automated solution is developed based on Z83 requirements and has been setup to enable public users to make online job applications, as opposed to manually filling out a government regulated Z83 form to apply for an advertised job within the public sector. 
 
 The Z83 Job Portal is built to better manage published job vacancies and to support online applications according to the Z83 format.
