@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Z83-Job-Portal-Solution
 
-This repository holds the project file for the Z83 Portal Solution, its documentation and the GitHub actions for committing changes and deployment.
+This repository holds the project file for the Z83 Job Portal Solution, its documentation and the GitHub actions for committing changes and deployment.
 
 ## PROJECT OVERVIEW AND OBJECTIVES
 
