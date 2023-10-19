@@ -34,7 +34,7 @@ The introduction of an automated system simplifies the job application process f
 
 Which is digitizing the Z83 application form
 Includes the sending out of email notification messages to a candidate’s valid email addresses
-oIncludes auto-generating and storing the completed Z83 application form on a SharePoint library, for storage and easy accessibility.  
+Includes auto-generating and storing the completed Z83 application form on a SharePoint library, for storage and easy accessibility.  
 
 To the Integration Phase:
 This is integrating the Z83 digital form into Microsoft Dynamics 365 Finance and Operations (the Human Resources module). 
